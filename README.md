@@ -2,7 +2,7 @@
 
 ### Project Objective
 
-The primary goal of this project is to provide a comprehensive, interactive, and visually appealing dashboard that allows stakeholders to analyze coffee sales data. The dashboard facilitates data-driven decision-making by identifying trends, top-performing products, and key customer demographics. This dashboard provides an all-encompassing view of the coffee sales data, offering valuable insights into trends, product performance, and customer behavior. It is a critical tool for optimizing operations and driving business growth.
+The primary goal of this project is to provide a comprehensive, interactive, and visually appealing dashboard that allows stakeholders to analyze coffee sales data. The advanced Excel dashboard facilitates data-driven decision-making by identifying trends, top-performing products, and key customer demographics. This dashboard provides an all-encompassing view of the coffee sales data, offering valuable insights into trends, product performance, and customer behavior. It is a critical tool for optimizing operations and driving business growth.
 
 ### Target Audience
 
